@@ -17,7 +17,7 @@ User authentication
 ## Primary Pages
 
 | Page	                                         |  Description                                              | 
-| -----------------------------------------------------------------------------------------------------------| 
+| -----------------------------------------------|-----------------------------------------------------------| 
 | Property Listing View	                         |    Grid display of available properties with filters      | 
 | Listing Detailed View	                         |    Complete property details with images and booking form | 
 | Simple Checkout View	                         |  Streamlined payment and booking confirmation             | 
@@ -40,7 +40,7 @@ Secondary Text: Circular, Book (400), 14px
 
 # Project Roles and Responsibilities
 | Role	                                        | Responsibilities                                                    | 
-| --------------------------------------------------------------------------------------------------------------------| 
+| ----------------------------------------------|---------------------------------------------------------------------| 
 | Project Manager	                              | Oversees timeline, coordinates team, manages deliverables           | 
 | Frontend Developers	                          | Implements UI components, ensures responsive design                 | 
 | Backend Developers	                          | Builds APIs, manages database, implements business logic            | 
